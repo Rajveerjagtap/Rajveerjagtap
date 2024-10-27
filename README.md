@@ -1,45 +1,62 @@
-# Hi there, I'm Rajveer Jagtap 👋
+# 👋 Hello, I'm Rajveer!
 
-🔧 **DevOps & Cloud Enthusiast | AI-ML Explorer**  
-🚀 **Azure Certified | Software Developer**
+Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student at **IIIT Kottayam** passionate about **sustainable tech solutions, DevOps, and software development**.
 
-Welcome to my GitHub! I am passionate about DevOps, Cloud technologies, and AI-ML. I love solving challenging problems and continuously seek to improve my skills in system optimization, automation, and cloud deployment.
+---
 
-### 🔍 About Me:
-- 💻 Currently pursuing a **Bachelor’s Degree in Computer Science and Engineering** (2022-2026) at **IIIT Kottayam**.
-- 🏗️ Experienced in building **containerized applications** using Docker and Kubernetes.
-- 🛠️ Strong interest in **DevOps, Cloud technologies**, and **Real-time transcription**.
-- 🌩️ **Microsoft Certified Azure Fundamentals** professional (June 2024).
-- 🎓 Completed various projects involving **voice transcription and summarization**, **chatbots**, and **cloud infrastructure setup**.
+## 🌱 About Me
 
-### 🌟 **What I’m Working On:**
-- **Real-time Voice Transcription and Summarization** using OpenAI Whisper and ReactJS.
-- **Multi-Antivirus Scanning Pipeline**: Building a system that integrates multiple antivirus engines to scan and report on files in parallel.
+- 🔭 Currently working on a **Sustainable Product Marketplace** called **EcoOrigins**.
+- 🎓 Studying at **Indian Institute of Information Technology, Kottayam**.
+- 💼 Former **Java Developer Intern** at **Oasis Infobyte**.
+- 🎉 Lead of the **Entrepreneurship Cell and Finance Club** at my college.
+- 🌐 Certified **Microsoft Azure Fundamentals (AZ-900)**.
 
-### 🚀 **Key Projects:**
-- **[JusticeChatBot](https://github.com/SIH-JusticeLeague/JusticeChatBot)**:  
-  An AI-powered chatbot designed for the Department of Justice’s website. It provides legal information, answers user queries, and integrates with Docker Compose and Kubernetes for high availability.
-  
-- **[Voice Transcription and Summarization Project](https://github.com/Rajveerjagtap/oibsip_task_3)**:  
-  Leveraging OpenAI Whisper to transcribe audio in real-time, with ongoing enhancements for verbatim summaries.
+---
 
-- **Developed GUI Interface for ATM System**:  
-  Built a Java Swing interface integrated with MongoDB and Atlas, optimizing user interactions and improving security.
+## 🛠️ Tech Skills
 
-### 📈 **Skills & Technologies:**
-- **DevOps**: Docker, Kubernetes, Terraform, CI/CD Pipelines
-- **Cloud**: Azure (Certified), Google Cloud Platform
-- **Languages**: Python, Go, C++, Java (Swing)
-- **Databases**: MongoDB, Atlas
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎯 **Certifications:**
-- **Microsoft Certified: Azure Fundamentals** (June 2024)  
-  *Cloud concepts, core Azure services, security, compliance, and privacy.*
+---
 
-### 🏆 **Leadership & Achievements:**
-- Lead of **Entrepreneurship & Finance Club** at IIIT Kottayam, organizing workshops, hackathons, and competitive pitching sessions.
-  
-### 📫 **Get in Touch:**
-- **GitHub**: [Rajveer Jagtap](https://github.com/Rajveerjagtap)
-- **LinkedIn**: [Rajveer Jagtap](https://www.linkedin.com/in/rajveer-jagtap-21748a258/)
-- **Email**: r5rjagtap@gmail.com
+## 🚀 Projects
+
+### [EcoOrigins - Sustainable Product Marketplace](https://github.com/your-profile/EcoOrigins)
+An e-commerce platform selling sustainable products.  
+**Tech Stack**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### [JusticeChatBot](https://github.com/SIH-JusticeLeague/JusticeChatBot)
+A chatbot deployed on **Docker Compose** and **Kubernetes** for the Department of Justice.  
+**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### [ATM GUI System](https://github.com/Rajveerjagtap/oibsip_task_3)
+Developed a GUI interface for an ATM system with database integration.  
+**Tech Stack**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- **Microsoft Certified DevOps Enthusiast**: Experienced in CI/CD, containerization, and cloud deployment.
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r5rjagtap@gmail.com)
+
+---
+
+### 🎉 Thank you for visiting my profile!
+Always happy to connect and collaborate on exciting projects!
