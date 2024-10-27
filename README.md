@@ -28,6 +28,13 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 
 ## 🚀 Projects
 
+### [Verbatim - Real-Time Lecture Transcription and Summarization](https://github.com/VerbatimGP/Verbatim)
+A project designed to **transcribe lectures in real-time** and provide concise summaries to aid student learning. Verbatim leverages advanced **AI models** to convert spoken words into text, making note-taking easier and more accessible for students.
+
+**Tech Stack**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![OpenAI Whisper](https://img.shields.io/badge/OpenAI%20Whisper-1A1A1A?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-4A90E2?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
 ### [EcoOrigins - Sustainable Product Marketplace](https://github.com/your-profile/EcoOrigins)
 An e-commerce platform selling sustainable products.  
 **Tech Stack**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
