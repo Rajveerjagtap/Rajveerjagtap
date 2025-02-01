@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student at **IIIT Kottayam** passionate about **sustainable tech solutions, DevOps, and software development**.
 
 ---
-
 ## 🌱 About Me
 
 - 🔭 Currently working on a **Sustainable Product Marketplace** called **EcoOrigins**.
