@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 
 - 🔭 Currently working on a **Sustainable Product Marketplace** called **EcoOrigins**.
 - 🎓 Studying at **Indian Institute of Information Technology, Kottayam**.
-- 💼 Former **Java Developer Intern** at **Oasis Infobyte**.
+- 💼 Former **Cloud Development Intern** at **Biofield Power**.
+- 💼 Former **Software Developer Intern** at **Oasis Infobyte**.
 - 🎉 Lead of the **Entrepreneurship Cell and Finance Club** at my college.
 - 🌐 Certified **Microsoft Azure Fundamentals (AZ-900)**.
 
