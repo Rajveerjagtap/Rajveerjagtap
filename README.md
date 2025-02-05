@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 ---
 ## 🌱 About Me
 
-- 🔭 Currently working on a **Sustainable Product Marketplace** called **EcoOrigins**.
 - 🎓 Studying at **Indian Institute of Information Technology, Kottayam**.
 - 💼 Former **Cloud Development Intern** at **Biofield Power**.
 - 💼 Former **Software Developer Intern** at **Oasis Infobyte**.
