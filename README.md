@@ -28,6 +28,11 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 
 ## 🚀 Projects
 
+### [JusticeChatBot](https://github.com/SIH-JusticeLeague/JusticeChatBot)
+An intelligent chatbot developed for the Department of Justice, utilizing natural language processing and machine learning to provide sophisticated legal information retrieval. Deployed using **Docker Compose** and **Kubernetes**, the bot offers context-aware responses, demonstrating advanced AI capabilities in improving access to justice services.
+
+**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### [Verbatim - Real-Time Lecture Transcription and Summarization](https://github.com/VerbatimGP/Verbatim)
 An AI-powered tool designed for students to transcribe lectures in real-time with intelligent summarization. Verbatim leverages advanced machine learning models to convert spoken words into accurate text, using natural language processing to generate concise, context-aware summaries. The project demonstrates cutting-edge AI techniques in educational accessibility.
 
@@ -38,10 +43,6 @@ An intelligent e-commerce platform dedicated to sustainable products, incorporat
 
 **Tech Stack**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### [JusticeChatBot](https://github.com/SIH-JusticeLeague/JusticeChatBot)
-An intelligent chatbot developed for the Department of Justice, utilizing natural language processing and machine learning to provide sophisticated legal information retrieval. Deployed using **Docker Compose** and **Kubernetes**, the bot offers context-aware responses, demonstrating advanced AI capabilities in improving access to justice services.
-
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### [ATM GUI System](https://github.com/Rajveerjagtap/oibsip_task_3)
 A desktop-based ATM simulation application with integrated anomaly detection using machine learning techniques. Developed with **Java Swing** and connected to a **MongoDB** database, the system employs predictive algorithms to enhance security and detect potential fraudulent transactions.
