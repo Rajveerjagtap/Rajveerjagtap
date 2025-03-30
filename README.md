@@ -59,8 +59,6 @@ A desktop-based ATM simulation application with integrated anomaly detection usi
 ## 📜 Certifications
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- **Microsoft Certified DevOps Enthusiast**: Experienced in CI/CD, containerization, and cloud deployment.
-- **Machine Learning and AI Specialization**: Advanced training in intelligent system design and implementation.
 
 ---
 
