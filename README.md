@@ -28,6 +28,11 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 
 ## 🚀 Projects
 
+### [End2EndML_Pipeline_Project](https://github.com/Rajveerjagtap/End2EndML_Pipeline_Project)
+A comprehensive end-to-end machine learning pipeline demonstrating the complete ML lifecycle from data ingestion to model deployment. This project implements automated data processing, feature engineering, model training with hyperparameter tuning, and containerized deployment. It showcases best practices in MLOps with continuous integration and monitoring capabilities.
+
+**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### [JusticeChatBot](https://github.com/SIH-JusticeLeague/JusticeChatBot)
 An intelligent chatbot developed for the Department of Justice, utilizing natural language processing and machine learning to provide sophisticated legal information retrieval. Deployed using **Docker Compose** and **Kubernetes**, the bot offers context-aware responses, demonstrating advanced AI capabilities in improving access to justice services.
 
