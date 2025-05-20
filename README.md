@@ -3,9 +3,12 @@
 Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student at **IIIT Kottayam** passionate about **sustainable tech solutions, AI-driven development, and intelligent software systems**.
 
 ---
+
 ## 🌱 About Me
 
 - 🎓 Studying at **Indian Institute of Information Technology, Kottayam**.
+- 💼 **LLM Developer Intern** at **ToeHo.ai**
+- 💼 **AI Intern** at **DigiProdigy**
 - 💼 Former **Cloud Development Intern** at **Biofield Power**.
 - 💼 Former **Software Developer Intern** at **Oasis Infobyte**.
 - 🎉 Lead of the **Entrepreneurship Cell and Finance Club** at my college.
@@ -59,6 +62,7 @@ A desktop-based ATM simulation application with integrated anomaly detection usi
 ## 📜 Certifications
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** ![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- **NPTEL – Machine Learning** (IIT-certified course) ![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-F48C06?style=for-the-badge&logo=googleclassroom&logoColor=white)
 
 ---
 
