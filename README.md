@@ -57,7 +57,7 @@ A desktop-based ATM simulation application with integrated anomaly detection usi
 
 **Tech Stack**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### [TaskManagement_System](https://github.com/Rajveerjagtap/TaskManagement_System)
+### [TaskManagement_System](https://github.com/Rajveerjagtap/Task-Management)
 A full-stack Task Management System enabling users to create, update, delete, and organize tasks efficiently with secure authentication. Includes deadline tracking, task status filters, and an intuitive dashboard UI.
 
 **Tech Stack**:  
