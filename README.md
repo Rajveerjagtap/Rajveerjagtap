@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 - 💼 Former **Software Developer Intern** at **Oasis Infobyte**.
 - 🎉 Lead of the **Entrepreneurship Cell and Finance Club** at my college.
 - 🌐 Certified **Microsoft Azure Fundamentals (AZ-900)**.
+- 🌐 Certified **NPTEL MACHINE LEARNING (IIT_Madras)**.
+
 
 ---
 
