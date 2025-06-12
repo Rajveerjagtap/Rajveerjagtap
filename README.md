@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering** student
 ---
 
 ## 🚀 Projects
-### [GitHub Green - Contribution Graph Automation](https://github.com/Rajveerjagtap/git_automation)
+### [Git Automation](https://github.com/Rajveerjagtap/git_automation)
 An intelligent automation suite that creates realistic commit patterns on GitHub contribution graphs using smart algorithms to simulate natural coding behavior. The project features intelligent repository detection, flexible date ranges, realistic commit pattern generation, and comprehensive safety features including automated logging and multiple removal modes. Built with zero external dependencies using only Python's standard library, it provides both creation and safe removal of automated commits with professional-grade error handling and cross-platform compatibility.
 
 **Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cross Platform](https://img.shields.io/badge/Cross%20Platform-28A745?style=for-the-badge&logo=linux&logoColor=white)
