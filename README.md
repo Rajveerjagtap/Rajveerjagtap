@@ -1,4 +1,4 @@
-<img width="80%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img width="100%" length="60%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 # 👋 Hello, I'm Rajveer!
 
 Welcome to my GitHub profile! I'm a Computer Science and Engineering student at IIIT Kottayam passionate about sustainable tech solutions, AI-driven development, and intelligent software systems.
