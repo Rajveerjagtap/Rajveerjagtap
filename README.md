@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 - 💼 Backend Developer [Python] at Credenca Pune (Onsite)
 - 💼 LLM Developer Intern at ToeHo.ai [Completed]
 - 💼 AI Intern at DigiProdigy [Completed]
-- 💼 Former Cloud Development Intern at Biofield Power
-- 💼 Former Software Developer Intern at Oasis Infobyte
+- 💼 Former Cloud Development Intern at Biofield Power [Completed]
+- 💼 Former Software Developer Intern at Oasis Infobyte [Completed]
 - 🎉 Lead of the Entrepreneurship Cell and Finance Club at my college
 - 🌐 Certified Microsoft Azure Fundamentals (AZ-900)
 - 🌐 Certified NPTEL MACHINE LEARNING (IIT_Madras)
