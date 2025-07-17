@@ -11,8 +11,9 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bf17f2a0106479655a43aa9be6213be55ae9c4f71bdd579af521ea19024eba57/68747470733a2f2f7472796e6574736f6c7574696f6e732e636f6d2f54532f62312e332e676966">
 
 - 🎓 Studying at Indian Institute of Information Technology, Kottayam
-- 💼 LLM Developer Intern at ToeHo.ai
-- 💼 AI Intern at DigiProdigy
+- 💼 Backend Developer [Python] at Credenca Pune (Onsite)
+- 💼 LLM Developer Intern at ToeHo.ai [Completed]
+- 💼 AI Intern at DigiProdigy [Completed]
 - 💼 Former Cloud Development Intern at Biofield Power
 - 💼 Former Software Developer Intern at Oasis Infobyte
 - 🎉 Lead of the Entrepreneurship Cell and Finance Club at my college
