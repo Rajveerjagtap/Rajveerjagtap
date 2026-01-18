@@ -10,18 +10,34 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bf17f2a0106479655a43aa9be6213be55ae9c4f71bdd579af521ea19024eba57/68747470733a2f2f7472796e6574736f6c7574696f6e732e636f6d2f54532f62312e332e676966">
 
-- 🎓 Studying at Indian Institute of Information Technology, Kottayam
-- 💼 Backend Developer [Python] at Credenca Pune (Onsite)
-- 💼 LLM Developer Intern at ToeHo.ai [Completed]
-- 💼 AI Intern at DigiProdigy [Completed]
-- 💼 Former Cloud Development Intern at Biofield Power [Completed]
-- 💼 Former Software Developer Intern at Oasis Infobyte [Completed]
-- 🎉 Lead of the Entrepreneurship Cell and Finance Club at my college
-- 🌐 Certified Microsoft Azure Fundamentals (AZ-900)
-- 🌐 Certified NPTEL MACHINE LEARNING (IIT_Madras)
+
+- 🎓 Studying at **Indian Institute of Information Technology (IIIT), Kottayam**
+- 💼 **Applied AI Engineer Intern** at **Kasparro.ai**, Bangalore (Onsite)
+- 💼 **Backend Developer Intern (Python)** at **Credenca**, Pune (Onsite) — *Completed*
+- 💼 **LLM Developer Intern** at **ToeHo.ai** — *Completed*
+- 💼 **AI Intern** at **DigiProdigy** — *Completed*
+- 💼 **Former Cloud Development Intern** at **Biofield Power** — *Completed*
+- 💼 **Former Software Developer Intern** at **Oasis Infobyte** — *Completed*
+- 🎉 **Lead**, Entrepreneurship Cell & Finance Club, IIIT Kottayam
 
 ---
 
+## 🏆 Hackathons & Achievements
+
+- 🥇 **DEVHACK 2.0** — Ranked **4th out of 220 teams**  
+  *Prize for Best Implementation of MongoDB & Auth0*  
+  Built a scalable cloud-hosted backend with optimized MongoDB architecture and secure Auth0 authentication.
+
+---
+
+## 🌐 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure (OCI) – Generative AI Professional** (2025)
+- ☁️ **Oracle Cloud Infrastructure (OCI) – Data Science Professional** (2025)
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 📘 **NPTEL Machine Learning Certification** — IIT Madras
+
+---
 ## 🛠️ Tech Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
